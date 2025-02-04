@@ -2,10 +2,12 @@ build:
   version: "PROD-3.0"
 
 accounts:
-  message: "{cipher}79a9faefa8fd67fa64a85545eba808f63b148e8513efb26f6a2aeea8f2186049b41bae457303e83d23c8d31888e259c2946e20de86bf2a44b7fa2e7eab2984d0daea2cdd7bcb68a9014648159ab54fd399c7e4c1b3c4099c38f0d6839b02ff7f"
+  message: "Hello World"
+  # message: "{cipher}79a9faefa8fd67fa64a85545eba808f63b148e8513efb26f6a2aeea8f2186049b41bae457303e83d23c8d31888e259c2946e20de86bf2a44b7fa2e7eab2984d0daea2cdd7bcb68a9014648159ab54fd399c7e4c1b3c4099c38f0d6839b02ff7f"
   contactDetails:
     name: "John DOE"
-    email: "{cipher}511cc3e7f2b5df8b2579f6605b926b51b408c1e5c0591bcf54e16b04800999b386032c6146a74c91976661054943bc76"
+    email: "abc@gmail.com"
+    # email: "{cipher}511cc3e7f2b5df8b2579f6605b926b51b408c1e5c0591bcf54e16b04800999b386032c6146a74c91976661054943bc76"
   onCallSupport:
     - "1234567890-PROD"
     - "9876543210-PROD"
