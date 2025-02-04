@@ -4,7 +4,7 @@ build:
 accounts:
   message: Hello World from PROD-GITHUB testing runtime refresh production.
   contactDetails:
-    name: John Doe
+    name: John DOE
     email: 0H6bI@example.com
   onCallSupport:
     - 1234567890-PROD
