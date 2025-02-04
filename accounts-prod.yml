@@ -1,0 +1,11 @@
+build:
+  version: "PROD-3.0"
+
+accounts:
+  message: Hello World from PROD-GITHUB testing runtime refresh production.
+  contactDetails:
+    name: John Doe
+    email: {cipher}511cc3e7f2b5df8b2579f6605b926b51b408c1e5c0591bcf54e16b04800999b386032c6146a74c91976661054943bc76
+  onCallSupport:
+    - 1234567890-PROD
+    - 9876543210-PROD
