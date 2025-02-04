@@ -2,7 +2,7 @@ build:
   version: "PROD-3.0"
 
 accounts:
-  message: Hello World from PROD-GITHUB
+  message: Hello World from PROD-GITHUB testing runtime refresh.
   contactDetails:
     name: John Doe
     email: 0H6bI@example.com
