@@ -1,7 +1,7 @@
 build:
   version: "QA-3.0"
 
-accounts:
+loans:
   message: Hello World from QA-GITHUB
   contactDetails:
     name: John Doe
