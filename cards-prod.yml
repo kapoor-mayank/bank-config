@@ -1,7 +1,7 @@
 build:
   version: "PROD-3.0"
 
-accounts:
+cards:
   message: "Hello World from CARDS PROD-GITHUB testing runtime refresh production."
   contactDetails:
     name: "John DOE"
